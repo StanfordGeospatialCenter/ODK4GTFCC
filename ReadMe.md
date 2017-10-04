@@ -7,11 +7,19 @@ This is a repo for distributing OpenDataKit (ODK) form templates for rapid data 
 * enketo
 * Esri Survey123?
 
+## What is ODK?
+
 ## What's Here  
 ### (not much yet, but I've got plans.)
 
 #### ODK Collect Forms
-I'll be creating and testing for functionality for the next few weeks, but the library of form templates should 
+I'll be creating and testing for functionality for the next few weeks, but the library of form templates should be complete, soon. 
+
+#### Tutorial Materials
+I'll put together some step-by-step tutorial materials for implementing these forms in the most common ODK based apps. I'll try to test on a few platforms, including all of those listed above, to provide some flexibility.
+
+#### Tips & Tricks
+I'll list some best practices when choosing, setting up and managing  equipment for data collection, as well as other topics, like encryption, etc...
 
 ## Source Material
 
