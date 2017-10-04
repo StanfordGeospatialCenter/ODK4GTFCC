@@ -7,10 +7,10 @@ This is a repo for distributing OpenDataKit (ODK) form templates for rapid data 
 * enketo
 * Esri Survey123?
 
-##What's Here  
-###(not much yet, but I've got plans.)
+## What's Here  
+### (not much yet, but I've got plans.)
 
-####ODK Collect Forms
+#### ODK Collect Forms
 I'll be creating and testing for functionality for the next few weeks, but the library of form templates should 
 
 ## Source Material
