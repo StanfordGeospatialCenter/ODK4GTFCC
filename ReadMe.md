@@ -7,8 +7,6 @@ This is a repo for distributing OpenDataKit (ODK) form templates for rapid data 
 * enketo
 * Esri Survey123?
 
-## What is ODK?
-
 ## What's Here  
 ### (not much yet, but I've got plans.)
 
